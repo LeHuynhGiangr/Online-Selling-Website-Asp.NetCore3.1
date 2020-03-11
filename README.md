@@ -13,6 +13,10 @@
 - NPM (Node package manager) (advance)
 - Nodepad ++ (advance)
 - Docker (advance)
+## Install Packages
+- Microsoft.EntityFrameworkCore.SqlServer
+- Microsoft.EntityFrameworkCore.Tools
+- Microsoft.EntityFrameworkCore.Design
 ## How to configure and run
 ## How to contribute
 ## Contact
