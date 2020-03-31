@@ -12,6 +12,8 @@ namespace eShopSolution.Data.EF
     {
         public EShopDbContext CreateDbContext(string[] args)
         {
+            //Microsoft.Extensions.Configuration.FileExtensions
+            //Microsoft.Extensions.Configuration.Json
             IConfigurationRoot configuration = new ConfigurationBuilder()
                 .SetBasePath(Directory.GetCurrentDirectory())
                 .AddJsonFile("appsettings.json")
